@@ -185,7 +185,7 @@ For testing other providers via OpenRouter:
 
 ```bash
 python tool_calls_eval.py samples.jsonl \
-    --model kimi-k2-0905-preview \
+    --model moonshotai/kimi-k2-0905 \
     --base-url https://openrouter.ai/api/v1 \
     --api-key YOUR_OPENROUTER_API_KEY \
     --concurrency 5 \
