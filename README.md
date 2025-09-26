@@ -34,7 +34,7 @@ We hope K2VV can help ensuring that everyone can access a consistent and high-pe
 </thead>
 <tbody>
 <tr>
-<td rowspan="11">kimi-k2-0905-preview</td>
+<td rowspan="12">kimi-k2-0905-preview</td>
 <td><a href="https://platform.moonshot.cn/">MoonshotAI</a></td>
 <td>1437</td>
 <td>522</td>
@@ -105,6 +105,15 @@ We hope K2VV can help ensuring that everyone can access a consistent and high-pe
 <td>0</td>
 <td>467</td>
 <td>95.44%</td>
+</tr>
+<tr>
+<td><a href="https://groq.com/">Groq (99 samples, normalized)</a></td>
+<td>67</td>
+<td>30</td>
+<td>1</td>
+<td>0</td>
+<td>30</td>
+<td>92.65%</td>
 </tr>
 <tr>
 <td><a href="https://openrouter.ai/provider/baseten">Baseten</a></td>

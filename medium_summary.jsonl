@@ -1,0 +1,13 @@
+{
+    "model": "moonshotai/kimi-k2-0905",
+    "success_count": 98,
+    "failure_count": 1,
+    "finish_stop": 67,
+    "finish_tool_calls": 30,
+    "finish_others": 1,
+    "finish_others_detail": {
+        "length": 1
+    },
+    "schema_validation_error_count": 0,
+    "successful_tool_call_count": 30
+}
