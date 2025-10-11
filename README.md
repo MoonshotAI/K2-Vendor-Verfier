@@ -225,5 +225,7 @@ python tool_calls_eval.py samples.jsonl \
 
 If there's any **metric or test case** you care about, please drop a note in [issue](https://github.com/MoonshotAI/K2-Vendor-Verifier/issues/9)
 
+And welcome to drop the name of any vendor you’d like to see in in [issue](https://github.com/MoonshotAI/K2-Vendor-Verifier/issues/10)
+
 ---
 If you have any questions or concerns, please reach out to us at shijuanfeng@moonshot.cn.
